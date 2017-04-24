@@ -1,0 +1,3 @@
+%{"kaffeine": {:git, "https://github.com/dplummer/kaffeine.git", "16fda019b459d3e0ead7297f62c5144ff28becb6", []},
+  "kafka_ex": {:hex, :kafka_ex, "0.6.5", "01c160cbfbe67f6dd60da446b7e7e43f3e51ceb943478f9f7ac425ac0f925b18", [:mix], []},
+  "kafka_impl": {:hex, :kafka_impl, "0.4.2", "84081426091ead12f148a09a0c58e353285776215b58f113207e59e1c2d797b6", [:mix], [{:kafka_ex, "~> 0.6", [hex: :kafka_ex, optional: false]}]}}
